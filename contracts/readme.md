@@ -16,5 +16,5 @@ Valorium (VLM) is a decentralized token built on the Binance Smart Chain (BSC).
 0x40E8b79a607C02b4Da92bbd68A77417535199fCc
 
 ## Social Media:
-- [Telegram](https://t.me/yourTelegramUsername)
-- [Instagram](https://www.instagram.com/yourInstagramHandle)
+- [Telegram](https://t.me/Valorium_VLM)
+- [Instagram](https://www.instagram.com/valorium_vlm)
